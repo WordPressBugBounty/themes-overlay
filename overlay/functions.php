@@ -6,7 +6,7 @@
  *
  * @package Overlay
  */
-define( 'OVERLAY_THEME_VERSION' , '1.1.47' );
+define( 'OVERLAY_THEME_VERSION' , '2.0.10' );
 
 // Load Customizer Library scripts
 require get_template_directory() . '/customizer/customizer-options.php';
@@ -198,7 +198,7 @@ add_action( 'widgets_init', 'overlay_widgets_init' );
 function overlay_scripts() {
 	wp_enqueue_style( 'overlay-fonts', '//fonts.googleapis.com/css?family=Open+Sans|Poppins', array(), OVERLAY_THEME_VERSION );
 	wp_enqueue_style( 'overlay-style', get_stylesheet_uri() );
-	wp_enqueue_style( 'overlay-font-awesome', get_template_directory_uri().'/inc/font-awesome/css/all.css', array(), '6.5.1' );
+	wp_enqueue_style( 'overlay-font-awesome', get_template_directory_uri().'/inc/font-awesome/css/all.css', array(), '6.7.2' );
 
 	// Load Header Style
 	wp_enqueue_style( 'overlay-header-style', get_template_directory_uri()."/templates/header/header-style.css", array( 'overlay-style' ), OVERLAY_THEME_VERSION );
@@ -482,7 +482,7 @@ function overlay_add_license_notice() {
 			<?php
 			/* translators: 1: 'giving us a review'. */
             printf( esc_html__( 'We\'re here to help... %1$s and get help on how to easily build a professional website... And feel free to %2$s on using Overlay.', 'overlay' ), wp_kses( '<a href="' . admin_url( 'themes.php?page=theme_info' ) . '" class="overlay-admin-notice-a">' . __( 'Read More on Using the Overlay Theme', 'overlay' ) . '</a>', array( 'a' => array( 'href' => array(), 'class' => array() ) ) ), wp_kses( '<a href="' . admin_url( 'themes.php?page=theme_info' ) . '" class="overlay-admin-notice-a">' . __( 'Contact Us for Support', 'overlay' ) . '</a>', array( 'a' => array( 'href' => array(), 'class' => array() ) ) ) ); ?>
-            <br /><br /><p><?php esc_html_e( 'Use the code "SALE2020" to get $5 off Overlay Pro !', 'overlay' ); ?></p>
+            <br /><br /><a href="https://kairaweb.com/wordpress-theme/overlay/" target="_blank" style="font-weight:bold;font-size:15px;color:#1547cc;text-decoration:none;"><?php esc_html_e( 'Overlay Pro is currently a once-off payment of $39 for unlimited installs & lifetime updates! Get it now!', 'overlay' ); ?></a>
 			<a href="?overlay_add_license_notice_ignore=" class="overlay-notice-close"><?php esc_html_e( 'Dismiss Notice', 'overlay' ); ?></a>
 		</div><?php
 	endif;

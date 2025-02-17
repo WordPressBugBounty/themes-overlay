@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Overlay\n"
-"POT-Creation-Date: 2022-11-14 10:25+0200\n"
+"POT-Creation-Date: 2025-02-17 10:08+0200\n"
 "PO-Revision-Date: 2019-05-29 14:29+0200\n"
 "Last-Translator: \n"
 "Language-Team: Kaira\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:2,1;__ngettext:1,2;"
@@ -170,18 +170,18 @@ msgstr ""
 #: customizer/customizer-options.php:53
 #: customizer/customizer-options.php:350
 msgid ""
-"Change the <a href=\"#overlay-panel-settings-section-header"
-"\" rel=\"tc-section\">Header Layout</a> or <a href="
-"\"#overlay-panel-settings-section-footer\" rel=\"tc-section"
-"\">Footer Layouts</a><br />Select <a href=\"#overlay-panel-"
-"settings-section-header-media\" rel=\"tc-section\">Header "
-"Media</a> to add to your site<br />Change Full <a href="
-"\"#overlay-panel-colors\" rel=\"tc-panel\">Theme Colors "
-"Settings</a><br />Edit the <a href=\"#overlay-panel-blog-"
-"settings\" rel=\"tc-section\">Blog & Post Layout Settings</"
-"a> section<br />Add <a href=\"#overlay-panel-social-"
-"section-links\" rel=\"tc-section\">Social Links</a> to "
-"your site"
+"Change the <a href=\"#overlay-panel-settings-section-"
+"header\" rel=\"tc-section\">Header Layout</a> or <a "
+"href=\"#overlay-panel-settings-section-footer\" rel=\"tc-"
+"section\">Footer Layouts</a><br />Select <a "
+"href=\"#overlay-panel-settings-section-header-media\" "
+"rel=\"tc-section\">Header Media</a> to add to your "
+"site<br />Change Full <a href=\"#overlay-panel-colors\" "
+"rel=\"tc-panel\">Theme Colors Settings</a><br />Edit the "
+"<a href=\"#overlay-panel-blog-settings\" rel=\"tc-"
+"section\">Blog & Post Layout Settings</a> section<br />Add "
+"<a href=\"#overlay-panel-social-section-links\" rel=\"tc-"
+"section\">Social Links</a> to your site"
 msgstr ""
 
 #: customizer/customizer-options.php:58
@@ -411,8 +411,8 @@ msgid "Boxed Layout"
 msgstr ""
 
 #: customizer/customizer-options.php:370
-#: customizer/customizer-options.php:3589
-#: customizer/customizer-options.php:3819
+#: customizer/customizer-options.php:3595
+#: customizer/customizer-options.php:3825
 msgid "Full Width Layout"
 msgstr ""
 
@@ -445,17 +445,17 @@ msgstr ""
 #: customizer/customizer-options.php:2534
 #: customizer/customizer-options.php:2706
 #: customizer/customizer-options.php:2733
-#: customizer/customizer-options.php:3893
-#: customizer/customizer-options.php:3900
+#: customizer/customizer-options.php:3899
+#: customizer/customizer-options.php:3906
 msgid "Header"
 msgstr ""
 
 #: customizer/customizer-options.php:410
 msgid ""
-"Edit <a href=\"#overlay-panel-font-settings-section-header"
-"\" rel=\"tc-section\">Header Font & Sizes</a> or edit <a "
-"href=\"#overlay-panel-edit-text-section-topbar\" rel=\"tc-"
-"section\">Header Text</a>"
+"Edit <a href=\"#overlay-panel-font-settings-section-"
+"header\" rel=\"tc-section\">Header Font & Sizes</a> or "
+"edit <a href=\"#overlay-panel-edit-text-section-topbar\" "
+"rel=\"tc-section\">Header Text</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:416
@@ -525,7 +525,7 @@ msgstr ""
 
 #: customizer/customizer-options.php:527
 #: customizer/customizer-options.php:1524
-#: customizer/customizer-options.php:3913
+#: customizer/customizer-options.php:3919
 msgid "Remove Search"
 msgstr ""
 
@@ -566,8 +566,8 @@ msgid ""
 "Enter the shortcode provided by a more advanced search "
 "plugin of your choice.<br /><br />For a better WooCommerce "
 "search, we recommend <a href=\"https://kairaweb.com/go/"
-"woocommerce-product-search/\" target=\"_blank"
-"\">WooCommerce Product Search</a>"
+"woocommerce-product-search/\" "
+"target=\"_blank\">WooCommerce Product Search</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:564
@@ -618,8 +618,9 @@ msgstr ""
 
 #: customizer/customizer-options.php:627
 msgid ""
-"Using Mega Menu? <a href=\"#overlay-section-plugin-support"
-"\" rel=\"tc-section\">Enable Mega Menu compatibility</a>"
+"Using Mega Menu? <a href=\"#overlay-section-plugin-"
+"support\" rel=\"tc-section\">Enable Mega Menu "
+"compatibility</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:630
@@ -740,8 +741,8 @@ msgstr ""
 
 #: customizer/customizer-options.php:822
 msgid ""
-"You can now <a href=\"header_image\" rel=\"tc-section"
-"\">add a Custom Header or Video here</a>"
+"You can now <a href=\"header_image\" rel=\"tc-"
+"section\">add a Custom Header or Video here</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:830
@@ -803,8 +804,8 @@ msgstr ""
 
 #: customizer/customizer-options.php:885
 msgid ""
-"Edit <a href=\"#overlay-panel-font-settings-section-title"
-"\" rel=\"tc-section\">Page Title font sizes</a>"
+"Edit <a href=\"#overlay-panel-font-settings-section-"
+"title\" rel=\"tc-section\">Page Title font sizes</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:891
@@ -923,10 +924,10 @@ msgstr ""
 
 #: customizer/customizer-options.php:1155
 msgid ""
-"Edit <a href=\"#overlay-panel-font-settings-section-footer"
-"\" rel=\"tc-section\">Footer Font & Sizes</a> or edit <a "
-"href=\"#overlay-panel-edit-text-section-bottombar\" rel="
-"\"tc-section\">Footer Text</a>"
+"Edit <a href=\"#overlay-panel-font-settings-section-"
+"footer\" rel=\"tc-section\">Footer Font & Sizes</a> or "
+"edit <a href=\"#overlay-panel-edit-text-section-"
+"bottombar\" rel=\"tc-section\">Footer Text</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:1161
@@ -1052,7 +1053,7 @@ msgstr ""
 
 #: customizer/customizer-options.php:1278
 #: customizer/customizer-options.php:3074
-#: customizer/customizer-options.php:3483
+#: customizer/customizer-options.php:3489
 msgid "Square"
 msgstr ""
 
@@ -1078,8 +1079,8 @@ msgstr ""
 msgid ""
 "The Standard Footer is divided into columns by the amount "
 "of widgets that are added under<br /><i>Dashboard -> "
-"Appearance -> <a href=\"#widgets\" rel=\"tc-panel"
-"\">Widgets</a></i>"
+"Appearance -> <a href=\"#widgets\" rel=\"tc-"
+"panel\">Widgets</a></i>"
 msgstr ""
 
 #: customizer/customizer-options.php:1330
@@ -1274,7 +1275,7 @@ msgid "Grid Columns"
 msgstr ""
 
 #: customizer/customizer-options.php:1644
-#: customizer/customizer-options.php:3642
+#: customizer/customizer-options.php:3648
 msgid "2 <b>|</b> 3 <b>|</b> 4 <b>|</b> 5"
 msgstr ""
 
@@ -1575,8 +1576,8 @@ msgstr ""
 
 #: customizer/customizer-options.php:2187
 msgid ""
-"Edit <a href=\"#overlay-panel-settings-section-title\" rel="
-"\"tc-section\">Page Title font sizes</a>"
+"Edit <a href=\"#overlay-panel-settings-section-title\" "
+"rel=\"tc-section\">Page Title font sizes</a>"
 msgstr ""
 
 #: customizer/customizer-options.php:2194
@@ -1796,7 +1797,7 @@ msgstr ""
 #: customizer/customizer-options.php:2773
 #: customizer/customizer-options.php:2951
 #: customizer/customizer-options.php:2999
-#: customizer/customizer-options.php:3852
+#: customizer/customizer-options.php:3858
 msgid "Background Color"
 msgstr ""
 
@@ -1808,7 +1809,7 @@ msgstr ""
 #: customizer/customizer-options.php:2913
 #: customizer/customizer-options.php:2965
 #: customizer/customizer-options.php:3006
-#: customizer/customizer-options.php:3859
+#: customizer/customizer-options.php:3865
 msgid "Font Color"
 msgstr ""
 
@@ -1898,8 +1899,8 @@ msgstr ""
 
 #: customizer/customizer-options.php:3049
 msgid ""
-"Add <a href=\"#overlay-panel-social-section-links\" rel="
-"\"tc-section\">Social Links</a> for this to show"
+"Add <a href=\"#overlay-panel-social-section-links\" "
+"rel=\"tc-section\">Social Links</a> for this to show"
 msgstr ""
 
 #: customizer/customizer-options.php:3054
@@ -1966,350 +1967,355 @@ msgid "Twitter"
 msgstr ""
 
 #: customizer/customizer-options.php:3176
-msgid "Google Plus"
+msgid "X"
 msgstr ""
 
 #: customizer/customizer-options.php:3182
-msgid "SnapChat"
+msgid "Google Plus"
 msgstr ""
 
 #: customizer/customizer-options.php:3188
-msgid "TikTok"
+msgid "SnapChat"
 msgstr ""
 
 #: customizer/customizer-options.php:3194
-msgid "Steam"
+msgid "TikTok"
 msgstr ""
 
 #: customizer/customizer-options.php:3200
-msgid "Amazon"
+msgid "Steam"
 msgstr ""
 
 #: customizer/customizer-options.php:3206
-msgid "Etsy"
+msgid "Amazon"
 msgstr ""
 
 #: customizer/customizer-options.php:3212
-msgid "Yelp"
+msgid "Etsy"
 msgstr ""
 
 #: customizer/customizer-options.php:3218
-msgid "YouTube"
+msgid "Yelp"
 msgstr ""
 
 #: customizer/customizer-options.php:3224
-msgid "Vimeo"
+msgid "YouTube"
 msgstr ""
 
 #: customizer/customizer-options.php:3230
-msgid "Instagram"
+msgid "Vimeo"
 msgstr ""
 
 #: customizer/customizer-options.php:3236
-msgid "Strava"
+msgid "Instagram"
 msgstr ""
 
 #: customizer/customizer-options.php:3242
-msgid "Airbnb"
+msgid "Strava"
 msgstr ""
 
 #: customizer/customizer-options.php:3248
-msgid "Pinterest"
+msgid "Airbnb"
 msgstr ""
 
 #: customizer/customizer-options.php:3254
-msgid "Medium"
+msgid "Pinterest"
 msgstr ""
 
 #: customizer/customizer-options.php:3260
-msgid "Blogger"
+msgid "Medium"
 msgstr ""
 
 #: customizer/customizer-options.php:3266
-msgid "Behance"
+msgid "Blogger"
 msgstr ""
 
 #: customizer/customizer-options.php:3272
-msgid "SoundCloud"
+msgid "Behance"
 msgstr ""
 
 #: customizer/customizer-options.php:3278
-msgid "Spotify"
+msgid "SoundCloud"
 msgstr ""
 
 #: customizer/customizer-options.php:3284
-msgid "Product Hunt"
+msgid "Spotify"
 msgstr ""
 
 #: customizer/customizer-options.php:3290
-msgid "Kickstarter"
+msgid "Product Hunt"
 msgstr ""
 
 #: customizer/customizer-options.php:3296
-msgid "Slack"
+msgid "Kickstarter"
 msgstr ""
 
 #: customizer/customizer-options.php:3302
-msgid "LinkedIn"
+msgid "Slack"
 msgstr ""
 
 #: customizer/customizer-options.php:3308
-msgid "Tumblr"
+msgid "LinkedIn"
 msgstr ""
 
 #: customizer/customizer-options.php:3314
-msgid "Digg"
+msgid "Tumblr"
 msgstr ""
 
 #: customizer/customizer-options.php:3320
-msgid "Flickr"
+msgid "Digg"
 msgstr ""
 
 #: customizer/customizer-options.php:3326
-msgid "Houzz"
+msgid "Flickr"
 msgstr ""
 
 #: customizer/customizer-options.php:3332
-msgid "Vine"
+msgid "Houzz"
 msgstr ""
 
 #: customizer/customizer-options.php:3338
-msgid "VK"
+msgid "Vine"
 msgstr ""
 
 #: customizer/customizer-options.php:3344
-msgid "Xing"
+msgid "VK"
 msgstr ""
 
 #: customizer/customizer-options.php:3350
-msgid "StumbleUpon"
+msgid "Xing"
 msgstr ""
 
 #: customizer/customizer-options.php:3356
-msgid "TripAdvisor"
+msgid "StumbleUpon"
 msgstr ""
 
 #: customizer/customizer-options.php:3362
-msgid "500px"
+msgid "TripAdvisor"
 msgstr ""
 
 #: customizer/customizer-options.php:3368
-msgid "Odnoklassniki"
+msgid "500px"
 msgstr ""
 
 #: customizer/customizer-options.php:3374
-msgid "GitHub"
+msgid "Odnoklassniki"
 msgstr ""
 
 #: customizer/customizer-options.php:3380
+msgid "GitHub"
+msgstr ""
+
+#: customizer/customizer-options.php:3386
 msgid "Custom Brand Icons"
 msgstr ""
 
-#: customizer/customizer-options.php:3388
+#: customizer/customizer-options.php:3394
 msgid ""
-"Use any other brand icon by adding the corrent <a href="
-"\"https://fontawesome.com/icons?d=gallery&s=brands&m=free"
-"\" target=\"_blank\">Font Awesome</a> class name. Eg: \"fa-"
-"facebook\"<br /><br />This only uses brand icons."
-msgstr ""
-
-#: customizer/customizer-options.php:3392
-#: customizer/customizer-options.php:3428
-msgid "Add a Custom Social Link"
+"Use any other brand icon by adding the corrent <a "
+"href=\"https://fontawesome.com/icons?"
+"d=gallery&s=brands&m=free\" target=\"_blank\">Font "
+"Awesome</a> class name. Eg: \"fa-facebook\"<br /><br /"
+">This only uses brand icons."
 msgstr ""
 
 #: customizer/customizer-options.php:3398
-#: customizer/customizer-options.php:3410
 #: customizer/customizer-options.php:3434
-msgid "Add the URL"
+msgid "Add a Custom Social Link"
 msgstr ""
 
 #: customizer/customizer-options.php:3404
+#: customizer/customizer-options.php:3416
+#: customizer/customizer-options.php:3440
+msgid "Add the URL"
+msgstr ""
+
+#: customizer/customizer-options.php:3410
 msgid "Add another Custom Social Link"
 msgstr ""
 
-#: customizer/customizer-options.php:3416
+#: customizer/customizer-options.php:3422
 msgid "Custom NON Brand Icon"
 msgstr ""
 
-#: customizer/customizer-options.php:3424
+#: customizer/customizer-options.php:3430
 msgid ""
 "Use any non-brand <a href=\"https://fontawesome.com/icons?"
 "d=gallery&c=buildings,business,chat,code,date-time,design,"
 "editors,maps,marketing,shapes,travel,writing&m=free\" "
-"target=\"_blank\">Font Awesome</a> icon.<br />Eg: \"fa-bed"
-"\"<br /><br />This will not take brand icons."
+"target=\"_blank\">Font Awesome</a> icon.<br />Eg: \"fa-"
+"bed\"<br /><br />This will not take brand icons."
 msgstr ""
 
-#: customizer/customizer-options.php:3443
+#: customizer/customizer-options.php:3449
 msgid "Header Media"
 msgstr ""
 
-#: customizer/customizer-options.php:3445
+#: customizer/customizer-options.php:3451
 msgid ""
 "<a href=\"#overlay-panel-settings-section-header-media\" "
 "rel=\"tc-section\">Select the Custom Header option here</"
 "a> to use this Header Media on your home page or all pages."
 msgstr ""
 
-#: customizer/customizer-options.php:3453 functions.php:438
+#: customizer/customizer-options.php:3459 functions.php:438
 msgid "WooCommerce"
 msgstr ""
 
-#: customizer/customizer-options.php:3461
+#: customizer/customizer-options.php:3467
 msgid "Overlay Catalogue Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3467
+#: customizer/customizer-options.php:3473
 msgid "Basic Centered"
 msgstr ""
 
-#: customizer/customizer-options.php:3468
+#: customizer/customizer-options.php:3474
 msgid "Side Button"
 msgstr ""
 
-#: customizer/customizer-options.php:3470
+#: customizer/customizer-options.php:3476
 msgid "Block Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3471
+#: customizer/customizer-options.php:3477
 msgid "Block Simple Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3475
+#: customizer/customizer-options.php:3481
 msgid "Product Catalogue Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3482
+#: customizer/customizer-options.php:3488
 msgid "Normal"
 msgstr ""
 
-#: customizer/customizer-options.php:3484
+#: customizer/customizer-options.php:3490
 msgid "Triangle"
 msgstr ""
 
-#: customizer/customizer-options.php:3485
+#: customizer/customizer-options.php:3491
 msgid "Bubble"
 msgstr ""
 
-#: customizer/customizer-options.php:3490
+#: customizer/customizer-options.php:3496
 msgid "Column Spacing"
 msgstr ""
 
-#: customizer/customizer-options.php:3503
+#: customizer/customizer-options.php:3509
 msgid "Remove Breadcrumbs"
 msgstr ""
 
-#: customizer/customizer-options.php:3510
+#: customizer/customizer-options.php:3516
 msgid "Remove Product Results & Sorting"
 msgstr ""
 
-#: customizer/customizer-options.php:3517
+#: customizer/customizer-options.php:3523
 msgid "Sale Banner Style"
 msgstr ""
 
-#: customizer/customizer-options.php:3525
+#: customizer/customizer-options.php:3531
 msgid "Advanced WooCommerce Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3533
+#: customizer/customizer-options.php:3539
 msgid "Products Title Size"
 msgstr ""
 
-#: customizer/customizer-options.php:3547
+#: customizer/customizer-options.php:3553
 msgid "Products Title Height"
 msgstr ""
 
-#: customizer/customizer-options.php:3555
+#: customizer/customizer-options.php:3561
 msgid ""
 "This adjusts the product title height to align the items "
 "with short and long titles"
 msgstr ""
 
-#: customizer/customizer-options.php:3561
+#: customizer/customizer-options.php:3567
 msgid "Products Bottom Spacing"
 msgstr ""
 
-#: customizer/customizer-options.php:3576
+#: customizer/customizer-options.php:3582
 msgid ""
 "<span><b>Overlay Pro Features:</b><br/>- Set Products "
 "Shown Per Page<br />- Set Columns for Product List<br />- "
 "Remove Shop Default Title"
 msgstr ""
 
-#: customizer/customizer-options.php:3582
+#: customizer/customizer-options.php:3588
 msgid "Overlay Product Page Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3587
+#: customizer/customizer-options.php:3593
 msgid "Default Left Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3588
+#: customizer/customizer-options.php:3594
 msgid "Basic Right Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3593
+#: customizer/customizer-options.php:3599
 msgid "Product Page Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3601
+#: customizer/customizer-options.php:3607
 msgid "Remove Image Gallery Zoom"
 msgstr ""
 
-#: customizer/customizer-options.php:3608
+#: customizer/customizer-options.php:3614
 msgid "Remove Image Gallery Lightbox"
 msgstr ""
 
-#: customizer/customizer-options.php:3615
+#: customizer/customizer-options.php:3621
 msgid "Remove Image Gallery Slider"
 msgstr ""
 
-#: customizer/customizer-options.php:3621
+#: customizer/customizer-options.php:3627
 msgid "Horizontal Tabs"
 msgstr ""
 
-#: customizer/customizer-options.php:3622
+#: customizer/customizer-options.php:3628
 msgid "Vertical Tabs"
 msgstr ""
 
-#: customizer/customizer-options.php:3623
+#: customizer/customizer-options.php:3629
 msgid "Link Style Tabs"
 msgstr ""
 
-#: customizer/customizer-options.php:3627
+#: customizer/customizer-options.php:3633
 msgid "Related Products Per Page"
 msgstr ""
 
-#: customizer/customizer-options.php:3634
+#: customizer/customizer-options.php:3640
 msgid "Related Products Columns"
 msgstr ""
 
-#: customizer/customizer-options.php:3647
+#: customizer/customizer-options.php:3653
 msgid "Advanced Product Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3655
+#: customizer/customizer-options.php:3661
 msgid "Product Details Column Sizing"
 msgstr ""
 
-#: customizer/customizer-options.php:3668
+#: customizer/customizer-options.php:3674
 msgid "Remove Whole Tabs Section"
 msgstr ""
 
-#: customizer/customizer-options.php:3676
+#: customizer/customizer-options.php:3682
 msgid "Tabs Top Spacing"
 msgstr ""
 
-#: customizer/customizer-options.php:3690
+#: customizer/customizer-options.php:3696
 msgid "Related Products Top Spacing"
 msgstr ""
 
-#: customizer/customizer-options.php:3704
+#: customizer/customizer-options.php:3710
 msgid "Product Title Size"
 msgstr ""
 
-#: customizer/customizer-options.php:3719
+#: customizer/customizer-options.php:3725
 msgid ""
 "<span><b>Overlay Pro Features:</b><br/>- Set Product "
 "Gallery Thumbnail Columns<br />- Remove Related "
@@ -2317,168 +2323,168 @@ msgid ""
 "Tags<br />- Choose/Change Product Tab Styling"
 msgstr ""
 
-#: customizer/customizer-options.php:3725
+#: customizer/customizer-options.php:3731
 msgid "Overlay My Account Page Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3730
-#: customizer/customizer-options.php:3792
+#: customizer/customizer-options.php:3736
+#: customizer/customizer-options.php:3798
 msgid "Default Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3731
+#: customizer/customizer-options.php:3737
 msgid "Top Tabs Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3735
+#: customizer/customizer-options.php:3741
 msgid "My Account Page Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3743
+#: customizer/customizer-options.php:3749
 msgid "Remove Dashoard Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3750
+#: customizer/customizer-options.php:3756
 msgid "Remove Orders Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3757
+#: customizer/customizer-options.php:3763
 msgid "Remove Downloads Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3764
+#: customizer/customizer-options.php:3770
 msgid "Remove Addresses Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3771
+#: customizer/customizer-options.php:3777
 msgid "Remove Account Details Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3778
+#: customizer/customizer-options.php:3784
 msgid "Remove Logout Tab"
 msgstr ""
 
-#: customizer/customizer-options.php:3787
+#: customizer/customizer-options.php:3793
 msgid "Overlay Cart Page Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3793
+#: customizer/customizer-options.php:3799
 msgid "Design Two"
 msgstr ""
 
-#: customizer/customizer-options.php:3797
+#: customizer/customizer-options.php:3803
 msgid "Cart Page Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3805
+#: customizer/customizer-options.php:3811
 msgid "Center Cart Totals"
 msgstr ""
 
-#: customizer/customizer-options.php:3813
+#: customizer/customizer-options.php:3819
 msgid "Overlay Checkout Page Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3818
+#: customizer/customizer-options.php:3824
 msgid "Default 2 Column Layout"
 msgstr ""
 
-#: customizer/customizer-options.php:3823
+#: customizer/customizer-options.php:3829
 msgid "Checkout Page Design"
 msgstr ""
 
-#: customizer/customizer-options.php:3831
+#: customizer/customizer-options.php:3837
 msgid "Make Labels Uppercase"
 msgstr ""
 
-#: customizer/customizer-options.php:3840
+#: customizer/customizer-options.php:3846
 msgid "Overlay WC Color Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3846
+#: customizer/customizer-options.php:3852
 msgid "Store Notice"
 msgstr ""
 
-#: customizer/customizer-options.php:3867
+#: customizer/customizer-options.php:3873
 msgid "Extra"
 msgstr ""
 
-#: customizer/customizer-options.php:3873
+#: customizer/customizer-options.php:3879
 msgid "Buttons Take On Primary Color"
 msgstr ""
 
-#: customizer/customizer-options.php:3885
+#: customizer/customizer-options.php:3891
 msgid "Overlay Mobile Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3906
+#: customizer/customizer-options.php:3912
 msgid "Remove Site Top Bar"
 msgstr ""
 
-#: customizer/customizer-options.php:3923
+#: customizer/customizer-options.php:3929
 msgid "Extras"
 msgstr ""
 
-#: customizer/customizer-options.php:3929
+#: customizer/customizer-options.php:3935
 msgid "Remove Sticky Header on Mobile"
 msgstr ""
 
-#: customizer/customizer-options.php:3936
+#: customizer/customizer-options.php:3942
 msgid "Remove Side Aligned Social Icons"
 msgstr ""
 
-#: customizer/customizer-options.php:3946
+#: customizer/customizer-options.php:3952
 msgid "Mobile Menu Settings"
 msgstr ""
 
-#: customizer/customizer-options.php:3951
+#: customizer/customizer-options.php:3957
 msgid "Button"
 msgstr ""
 
-#: customizer/customizer-options.php:3952
+#: customizer/customizer-options.php:3958
 msgid "Plain Arrow"
 msgstr ""
 
-#: customizer/customizer-options.php:3956
+#: customizer/customizer-options.php:3962
 msgid "Drop Down Toggle Style"
 msgstr ""
 
-#: customizer/customizer-options.php:3965
+#: customizer/customizer-options.php:3971
 msgid "Menu Button Font Size"
 msgstr ""
 
-#: customizer/customizer-options.php:3980
+#: customizer/customizer-options.php:3986
 msgid ""
 "<span><b>Overlay Pro Features:</b><br/>- Customize Full "
 "Mobile Menu Colors<br />- Edit Mobile Menu Font Size"
 msgstr ""
 
-#: customizer/customizer-options.php:3988
+#: customizer/customizer-options.php:3994
 msgid "Background Image"
 msgstr ""
 
-#: customizer/customizer-options.php:3993
+#: customizer/customizer-options.php:3999
 msgid "Make Header Transparent"
 msgstr ""
 
-#: customizer/customizer-options.php:4000
+#: customizer/customizer-options.php:4006
 msgid "Make Footer Transparent"
 msgstr ""
 
-#: customizer/customizer-options.php:4011
+#: customizer/customizer-options.php:4017
 msgid "Plugin Support"
 msgstr ""
 
-#: customizer/customizer-options.php:4013
+#: customizer/customizer-options.php:4019
 msgid ""
 "Overlay adds/removes custom styling to be more compatible "
 "with external plugins"
 msgstr ""
 
-#: customizer/customizer-options.php:4017
+#: customizer/customizer-options.php:4023
 msgid "Easy Digital Downloads"
 msgstr ""
 
-#: customizer/customizer-options.php:4024
+#: customizer/customizer-options.php:4030
 msgid "Mega Menu"
 msgstr ""
 
@@ -2551,11 +2557,15 @@ msgstr ""
 msgid "Blockons - Editor blocks"
 msgstr ""
 
-#: functions.php:476
+#: functions.php:458
+msgid "All in One SEO"
+msgstr ""
+
+#: functions.php:481
 msgid "Thank you for trying out Overlay !"
 msgstr ""
 
-#: functions.php:479
+#: functions.php:484
 #, php-format
 msgid ""
 "We're here to help... %1$s and get help on how to easily "
@@ -2563,27 +2573,29 @@ msgid ""
 "using Overlay."
 msgstr ""
 
-#: functions.php:479
+#: functions.php:484
 msgid "Read More on Using the Overlay Theme"
 msgstr ""
 
-#: functions.php:479
+#: functions.php:484
 msgid "Contact Us for Support"
 msgstr ""
 
-#: functions.php:480
-msgid "Use the code \"SALE2020\" to get $5 off Overlay Pro !"
+#: functions.php:485
+msgid ""
+"Overlay Pro is currently a once-off payment of $39 for "
+"unlimited installs & lifetime updates! Get it now!"
 msgstr ""
 
-#: functions.php:481 functions.php:518
+#: functions.php:486 functions.php:523
 msgid "Dismiss Notice"
 msgstr ""
 
-#: functions.php:514
+#: functions.php:519
 msgid "Try out the new Blockons Plugin !"
 msgstr ""
 
-#: functions.php:515
+#: functions.php:520
 msgid ""
 "Blockons offers advanced WordPress blocks for your Editor, "
 "as well as Site Addons such as page loader, page scroll "
@@ -2591,7 +2603,7 @@ msgid ""
 "beautiful pages! More features coming soon!"
 msgstr ""
 
-#: functions.php:516
+#: functions.php:521
 msgid "View the Blockons plugin"
 msgstr ""
 
@@ -3064,8 +3076,8 @@ msgstr ""
 #: templates/content/content.php:71
 #, php-format
 msgid ""
-"Continue reading<span class=\"screen-reader-text\"> \"%s"
-"\"</span>"
+"Continue reading<span class=\"screen-reader-text\"> "
+"\"%s\"</span>"
 msgstr ""
 
 #: templates/footer/bottombar/bottombar-default.php:9
@@ -3087,8 +3099,8 @@ msgstr ""
 #: templates/footer/bottombar/bottombar-two.php:9
 #: templates/footer/footer-basic.php:47
 msgid ""
-"<a href=\"https://kairaweb.com/\" class=\"no-margin"
-"\">Kaira</a>"
+"<a href=\"https://kairaweb.com/\" class=\"no-"
+"margin\">Kaira</a>"
 msgstr ""
 
 #: templates/footer/footer-basic.php:47
@@ -3127,138 +3139,142 @@ msgid "Follow Us on Twitter"
 msgstr ""
 
 #: templates/social-links.php:27
-msgid "Find Us on Google Plus"
+msgid "Find Us on X"
 msgstr ""
 
 #: templates/social-links.php:31
-msgid "Follow Us on SnapChat"
+msgid "Find Us on Google Plus"
 msgstr ""
 
 #: templates/social-links.php:35
-msgid "Follow Us on TikTok"
+msgid "Follow Us on SnapChat"
 msgstr ""
 
 #: templates/social-links.php:39
-msgid "Find Us on Steam"
+msgid "Follow Us on TikTok"
 msgstr ""
 
 #: templates/social-links.php:43
-msgid "Find Us on Amazon"
+msgid "Find Us on Steam"
 msgstr ""
 
 #: templates/social-links.php:47
-msgid "Find Us on Etsy"
+msgid "Find Us on Amazon"
 msgstr ""
 
 #: templates/social-links.php:51
-msgid "Find Us on Yelp"
+msgid "Find Us on Etsy"
 msgstr ""
 
 #: templates/social-links.php:55
-msgid "View our YouTube Channel"
+msgid "Find Us on Yelp"
 msgstr ""
 
 #: templates/social-links.php:59
-msgid "View our Vimeo Channel"
+msgid "View our YouTube Channel"
 msgstr ""
 
 #: templates/social-links.php:63
-msgid "Follow Us on Instagram"
+msgid "View our Vimeo Channel"
 msgstr ""
 
 #: templates/social-links.php:67
-msgid "Follow Us on Strava"
+msgid "Follow Us on Instagram"
 msgstr ""
 
 #: templates/social-links.php:71
-msgid "Find Us on Airbnb"
+msgid "Follow Us on Strava"
 msgstr ""
 
 #: templates/social-links.php:75
-msgid "Pin Us on Pinterest"
+msgid "Find Us on Airbnb"
 msgstr ""
 
 #: templates/social-links.php:79
-msgid "Find us on Medium"
+msgid "Pin Us on Pinterest"
 msgstr ""
 
 #: templates/social-links.php:83
-msgid "Find us on Blogger"
+msgid "Find us on Medium"
 msgstr ""
 
 #: templates/social-links.php:87
-msgid "Find us on Behance"
+msgid "Find us on Blogger"
 msgstr ""
 
 #: templates/social-links.php:91
-msgid "Find us on SoundCloud"
+msgid "Find us on Behance"
 msgstr ""
 
 #: templates/social-links.php:95
-msgid "Find us on Spotify"
+msgid "Find us on SoundCloud"
 msgstr ""
 
 #: templates/social-links.php:99
-msgid "Find us on Product Hunt"
+msgid "Find us on Spotify"
 msgstr ""
 
 #: templates/social-links.php:103
-msgid "Find us on Kickstarter"
+msgid "Find us on Product Hunt"
 msgstr ""
 
 #: templates/social-links.php:107
-msgid "Find us on Slack"
+msgid "Find us on Kickstarter"
 msgstr ""
 
 #: templates/social-links.php:111
-msgid "Find Us on LinkedIn"
+msgid "Find us on Slack"
 msgstr ""
 
 #: templates/social-links.php:115
-msgid "Find Us on Tumblr"
+msgid "Find Us on LinkedIn"
 msgstr ""
 
 #: templates/social-links.php:119
-msgid "Find Us on Digg"
+msgid "Find Us on Tumblr"
 msgstr ""
 
 #: templates/social-links.php:123
-msgid "Find Us on Flickr"
+msgid "Find Us on Digg"
 msgstr ""
 
 #: templates/social-links.php:127
-msgid "Find our profile on Houzz"
+msgid "Find Us on Flickr"
 msgstr ""
 
 #: templates/social-links.php:131
-msgid "Find Us on Vine"
+msgid "Find our profile on Houzz"
 msgstr ""
 
 #: templates/social-links.php:135
-msgid "Find Us on VK"
+msgid "Find Us on Vine"
 msgstr ""
 
 #: templates/social-links.php:139
-msgid "Find Us on Xing"
+msgid "Find Us on VK"
 msgstr ""
 
 #: templates/social-links.php:143
-msgid "Find Us on StumbleUpon"
+msgid "Find Us on Xing"
 msgstr ""
 
 #: templates/social-links.php:147
-msgid "Find Us on TripAdvisor"
+msgid "Find Us on StumbleUpon"
 msgstr ""
 
 #: templates/social-links.php:151
-msgid "Find Us on GitHub"
+msgid "Find Us on TripAdvisor"
 msgstr ""
 
 #: templates/social-links.php:155
-msgid "Find Us on 500px"
+msgid "Find Us on GitHub"
 msgstr ""
 
 #: templates/social-links.php:159
+msgid "Find Us on 500px"
+msgstr ""
+
+#: templates/social-links.php:163
 msgid "Find Us on Odnoklassniki"
 msgstr ""
 
@@ -3350,7 +3366,7 @@ msgid "Customize WooCommerce"
 msgstr ""
 
 #: upgrade/tpl/upgrade-page.php:69
-#, php-format
+#, no-php-format
 msgid ""
 "We've partnered with WooCustomizer to give you 40% off the "
 "popular plugin for Customizing your WooCommerce store. "
@@ -3483,8 +3499,8 @@ msgstr ""
 
 #: upgrade/tpl/upgrade-page.php:173
 msgid ""
-"<a href=\"https://kairaweb.com/contact/\" target=\"_blank"
-"\">contact us for help</a>"
+"<a href=\"https://kairaweb.com/contact/\" "
+"target=\"_blank\">contact us for help</a>"
 msgstr ""
 
 #: upgrade/tpl/upgrade-page.php:176
