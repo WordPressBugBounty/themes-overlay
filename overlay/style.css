@@ -4,9 +4,9 @@ Theme URI: https://kairaweb.com/wordpress-theme/overlay/
 Author: Kaira
 Author URI: https://kairaweb.com/
 Description: Overlay draws back the curtain on web development, giving everyone the ability to build their own beautiful website from scratch (with no coding knowledge needed). Whether you’re ready to expand your eCommerce store by integrating WooCommerce, or simply want a hassle-free tool to launch your blog or company website quickly, the Overlay theme is for you. With a focus on both beauty, simplicity and back-end functionality, Overlay’s core strengths lie in its ability to deliver advanced design solutions in an intuitive way that users of all experience levels can understand and implement. It's lightweight, fast, and incredibly customizable, empowering entrepreneurs and professionals alike with the ability to tweak and optimize everything from page layout options to more advanced customizations and spacing to full color settings. Want to be found by the right people, at the right time? We’ve got you — Overlay integrates with the top WordPress analytics plugins to bring customers to you with SEO-enhanced pages and content that plug into your social media pages effortlessly. Do we cater to the mobile workforce and on-the-go public? Sure! The Overlay theme is fully responsive across all devices, maintaining visual and operational integrity, whether people are viewing your website on a tablet, smartphone or desktop. To extend the theme even further, we’ve ensured that Overlay integrates with top WordPress plugins such as WooCommerce, Easy Digital Downloads, Elementor and other useful WordPress extensions. Ready to build your beautiful website? Head over here for more information and to download the Overlay theme: https://kairaweb.com/wordpress-theme/overlay/
-Version: 2.0.10
+Version: 2.0.11
 Requires at least: 4.7
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 7.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -654,8 +654,7 @@ input[type="reset"],
 input[type="submit"] {
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 2px;
-  box-shadow:
-    0 1px 0 rgba(255, 255, 255, 0.4) inset,
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset,
     0 1px 2px rgba(0, 0, 0, 0.06);
   margin: 0;
   padding: 5px 10px;
@@ -740,8 +739,7 @@ textarea {
   background-color: rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 2px;
-  box-shadow:
-    0 1px 0 rgba(255, 255, 255, 0.4) inset,
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset,
     0 1px 2px rgba(0, 0, 0, 0.06);
   padding: 10px 25px 12px;
   margin: 15px 0 0;
@@ -1833,9 +1831,7 @@ body.overlay-site-full-width-blocked.overlay-joined-content.break-blog-blocks
 }
 .overlay-pagetitle-banner {
   background-color: rgba(0, 0, 0, 0.04);
-  box-shadow:
-    0 1px rgba(0, 0, 0, 0.1),
-    0 -1px 0 rgba(255, 255, 255, 1) inset;
+  box-shadow: 0 1px rgba(0, 0, 0, 0.1), 0 -1px 0 rgba(255, 255, 255, 1) inset;
 }
 .overlay-pagetitle-banner .site-container {
   display: flex;
@@ -2854,9 +2850,7 @@ span.says {
   margin-bottom: 25px;
 }
 .overlay-comments-bubble #comments li article.comment-body {
-  box-shadow:
-    0 0 0 1px rgba(0, 0, 0, 0.12),
-    0 0 4px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.12), 0 0 4px rgba(0, 0, 0, 0.3) !important;
   background-color: rgba(0, 0, 0, 0.03);
   border-radius: 3px;
   padding: 15px;
@@ -2916,8 +2910,7 @@ span.says {
   background-color: rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 2px;
-  box-shadow:
-    0 1px 0 rgba(255, 255, 255, 0.4) inset,
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset,
     0 1px 2px rgba(0, 0, 0, 0.06);
   padding: 10px 25px 12px;
   margin: 15px 0 0;
@@ -3062,9 +3055,7 @@ object {
 .overlay-siteby-icon {
   width: 24px;
   background-color: #f1f1f1;
-  box-shadow:
-    0 0 0 1px rgba(0, 0, 0, 0.18),
-    0 0 3px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.18), 0 0 3px rgba(0, 0, 0, 0.18);
   overflow: hidden;
   border-radius: 2px;
   position: fixed;
@@ -3184,9 +3175,7 @@ body.overlay-site-full-width-blocked.overlay-joined-content.break-blog-blocks
 .overlay-blog-top.posts-round .post-img,
 .overlay-blog-grid.posts-round .post-img,
 .overlay-blog-tile.posts-round .post-inner {
-  box-shadow:
-    0 2px 4px rgba(0, 0, 0, 0.15),
-    0 0 0 1px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
 }
 
 /* ---- Box Shadow - None---- */

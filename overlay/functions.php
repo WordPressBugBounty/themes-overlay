@@ -6,7 +6,7 @@
  *
  * @package Overlay
  */
-define( 'OVERLAY_THEME_VERSION' , '2.0.10' );
+define( 'OVERLAY_THEME_VERSION' , '2.0.11' );
 
 // Load Customizer Library scripts
 require get_template_directory() . '/customizer/customizer-options.php';
@@ -508,19 +508,20 @@ function overlay_blockons_notice() {
 	global $current_user;
 	$overlay_user_id = $current_user->ID;
 
-	if ( !get_user_meta( $overlay_user_id, 'overlay_blockons_dismiss' ) ) : ?>
+	if ( !get_user_meta( $overlay_user_id, 'overlay_invoplex_dismiss' ) ) : ?>
 		<div class="notice notice-info overlay-admin-notice overlay-notice-blockons">
 			<div>
-				<a href="<?php echo esc_url(admin_url('/plugin-install.php?s=blockons&tab=search&type=term')); ?>">
-					<img src="<?php echo esc_url(get_template_directory_uri() . '/images/blockons-logo.png'); ?>" alt="Blockons" />
+				<a href="<?php echo esc_url("https://app.invoplex.com/auth/sign-up"); ?>" target="_blank">
+					<img src="<?php echo esc_url(get_template_directory_uri() . '/images/invoplex-logo.png'); ?>" alt="Blockons" style="width: 100px; height: auto;" />
 				</a>
 			</div>
 			<div>
-				<h4><?php esc_html_e( 'Try out the new Blockons Plugin !', 'overlay' ); ?></h4>
-				<p><?php esc_html_e( 'Blockons offers advanced WordPress blocks for your Editor, as well as Site Addons such as page loader, page scroll indicator & back to top button... Great for building beautiful pages! More features coming soon!', 'overlay' ); ?></p>
-				<a href="<?php echo esc_url(admin_url('/plugin-install.php?s=blockons&tab=search&type=term')); ?>"><?php esc_html_e( 'View the Blockons plugin', 'overlay' ); ?></a>
+				<h4 style="font-size: 19px;"><?php esc_html_e( 'Simplify Invoicing. Get Paid Faster !', 'overlay' ); ?></h4>
+				<p><?php esc_html_e( "Built for Small Businesses, Freelancers, creators, self-employed solopreneurs or any service-based business.", "overlay" ); ?></p>
+				<p><?php esc_html_e( "Invoplex let's you build quotes and invoices as you see them, convert them, mark them as sent or approved, as well as tracking payment and managing your clients.", "overlay" ); ?></p>
+				<a href="<?php echo esc_url("https://app.invoplex.com/auth/sign-up"); ?>" target="_blank"><?php esc_html_e( 'Get Started with Invoplex', 'overlay' ); ?></a>
 			</div>
-			<a href="?overlay_blockons_notice_ignore=" class="overlay-notice-close"><?php esc_html_e( 'Dismiss Notice', 'overlay' ); ?></a>
+			<a href="?overlay_blockons_notice_ignore=" class="overlay-notice-close"></a>
 		</div><?php
 	endif;
 }
@@ -533,7 +534,7 @@ function overlay_blockons_notice_ignore() {
 	$overlay_user_id = $current_user->ID;
 
     if ( isset( $_GET['overlay_blockons_notice_ignore'] ) ) {
-		update_user_meta( $overlay_user_id, 'overlay_blockons_dismiss', true );
+		update_user_meta( $overlay_user_id, 'overlay_invoplex_dismiss', true );
     }
 }
 add_action( 'admin_init', 'overlay_blockons_notice_ignore' );
